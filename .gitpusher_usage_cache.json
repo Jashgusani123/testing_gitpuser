@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "commitMessage": "test: update testing setup",
+    "status": "failure",
+    "branch": "",
+    "remote": "nk",
+    "repolink": "",
+    "requestDetails": {
+      "userInput": "some changes for the testing",
+      "modelResponseLength": 132,
+      "responseMimeType": "application/json"
+    },
+    "timestamp": "2025-10-12T17:23:08.048Z"
+  }
+]
