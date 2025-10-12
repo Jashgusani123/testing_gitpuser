@@ -1,15 +1,1 @@
-[
-  {
-    "commitMessage": "chore: update code",
-    "status": "success",
-    "branch": "main",
-    "remote": "origin",
-    "repolink": "https://github.com/Jashgusani123/testing_gitpuser.git",
-    "requestDetails": {
-      "userInput": "some changes",
-      "modelResponseLength": 124,
-      "responseMimeType": "application/json"
-    },
-    "timestamp": "2025-10-12T14:57:04.489Z"
-  }
-]
+[]
