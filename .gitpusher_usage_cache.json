@@ -11,5 +11,18 @@
       "responseMimeType": "application/json"
     },
     "timestamp": "2025-10-12T17:26:42.002Z"
+  },
+  {
+    "commitMessage": "test: some changes",
+    "status": "failure",
+    "branch": "",
+    "remote": "nk",
+    "repolink": "",
+    "requestDetails": {
+      "userInput": "some changes for the testing",
+      "modelResponseLength": 102,
+      "responseMimeType": "application/json"
+    },
+    "timestamp": "2025-10-12T17:27:09.310Z"
   }
 ]
